@@ -1,0 +1,15 @@
+{
+	id: "6D3BC5EC2C042FD8"
+	order_index: 1
+	title: "Logs"
+	loot_size: 1
+	use_title: true
+	rewards: [
+		{ item: "minecraft:oak_log", count: 24, random_bonus: 8 }
+		{ item: "minecraft:spruce_log", count: 24, random_bonus: 8 }
+		{ item: "minecraft:birch_log", count: 24, random_bonus: 8 }
+		{ item: "minecraft:jungle_log", count: 24, random_bonus: 8 }
+		{ item: "minecraft:acacia_log", count: 24, random_bonus: 8 }
+		{ item: "minecraft:dark_oak_log", count: 24, random_bonus: 8 }
+	]
+}

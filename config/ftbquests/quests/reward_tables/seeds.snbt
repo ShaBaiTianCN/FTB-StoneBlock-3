@@ -1,0 +1,15 @@
+{
+	id: "01392EF91EBD3002"
+	order_index: 0
+	title: "Seeds - Rolled 12 times"
+	loot_size: 12
+	use_title: true
+	rewards: [
+		{ item: "minecraft:wheat_seeds" }
+		{ item: "minecraft:pumpkin_seeds" }
+		{ item: "minecraft:melon_seeds" }
+		{ item: "minecraft:beetroot_seeds" }
+		{ item: "minecraft:carrot" }
+		{ item: "minecraft:potato" }
+	]
+}
