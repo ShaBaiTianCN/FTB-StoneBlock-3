@@ -61,8 +61,8 @@ const lootbeeEvent = {
   execute(event, player, location) {
     const level = player.getLevel();
     player.tell([
-      `Loot Bee has spawned at X: ${location.pos.x}, Y: ${location.pos.y}, Z: ${location.pos.z}`,
-      `\nHurry up and get the loot before it despawns!`,
+      `奖励蜜蜂已生成在 X: ${location.pos.x}, Y: ${location.pos.y}, Z: ${location.pos.z}`,
+      `\n快去，在它消失之前抓到它！`,
     ]);
 
     clearLocation(location.locationInfo, level);
