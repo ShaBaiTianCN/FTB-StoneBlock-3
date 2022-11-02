@@ -1,7 +1,7 @@
 {
 	id: "642DE365EDB5C30A"
 	order_index: 4
-	title: "Rare"
+	title: "稀有"
 	icon: "minecraft:chest"
 	loot_size: 1
 	rewards: [

@@ -1,7 +1,7 @@
 {
 	id: "3BF162E90A51082F"
 	order_index: 6
-	title: "Legendary"
+	title: "传奇"
 	icon: "minecraft:chest"
 	loot_size: 1
 	rewards: [

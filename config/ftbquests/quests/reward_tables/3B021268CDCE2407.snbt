@@ -1,7 +1,7 @@
 {
 	id: "3B021268CDCE2407"
 	order_index: 5
-	title: "Epic"
+	title: "史诗"
 	icon: "minecraft:chest"
 	loot_size: 1
 	rewards: [

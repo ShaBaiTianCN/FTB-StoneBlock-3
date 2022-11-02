@@ -15,7 +15,7 @@
 			description: [
 				"{sb3.create.mp.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_press\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_press\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -39,7 +39,7 @@
 			description: [
 				"{sb3.create.mix.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_mixer\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_mixer\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -66,7 +66,7 @@
 				""
 				"{sb3.create.ts.desc2}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:track_station\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:track_station\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -122,7 +122,7 @@
 			description: [
 				"{sb3.create.mc.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_crafter\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_crafter\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -146,7 +146,7 @@
 			description: [
 				"{sb3.create.se.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:steam_engine\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:steam_engine\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -170,7 +170,7 @@
 			description: [
 				"{sb3.create.ma.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_arm\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_arm\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -194,7 +194,7 @@
 			description: [
 				"{sb3.create.ww.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:water_wheel\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:water_wheel\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -238,7 +238,7 @@
 			description: [
 				"{sb3.create.mh.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_harvester\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:mechanical_harvester\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -263,7 +263,7 @@
 			description: [
 				"{sb3.create.bb.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:blaze_burner\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:blaze_burner\"}}"
 			]
 			dependencies: ["3F3F83DE0C10A6A7"]
 			id: "4BC48E2CF23C178F"
@@ -293,7 +293,7 @@
 			description: [
 				"{sb3.create.em.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder createaddition:electric_motor\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder createaddition:electric_motor\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -317,7 +317,7 @@
 			description: [
 				"{sb3.create.alt.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder createaddition:alternator\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder createaddition:alternator\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -341,7 +341,7 @@
 			description: [
 				"{sb3.create.mb.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:belt_connector\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:belt_connector\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true
@@ -365,7 +365,7 @@
 			description: [
 				"{sb3.create.rl.desc}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:redstone_link\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:redstone_link\"}}"
 			]
 			dependencies: ["37FEF989403B06BE"]
 			hide: true

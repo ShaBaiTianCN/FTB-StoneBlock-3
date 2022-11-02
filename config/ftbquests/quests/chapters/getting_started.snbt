@@ -281,7 +281,7 @@
 				""
 				"{sb3.getting_started.millstone.description_3}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder ftbstoneblock:millstone_dummy_block\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder ftbstoneblock:millstone_dummy_block\"}}"
 			]
 			dependencies: ["26071C048C200393"]
 			id: "5D2BC7C1FC479F36"
@@ -769,7 +769,7 @@
 				""
 				"{sb3.getting_started.encased_fan.desc3}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:encased_fan\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:encased_fan\"}}"
 			]
 			dependencies: ["5D2BC7C1FC479F36"]
 			id: "1C84420BDC21A288"
@@ -949,7 +949,7 @@
 				""
 				"{sb3.getting_started.crushing_wheel.desc2}"
 				""
-				"{\"text\":\"Click to Show Ponder\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:crushing_wheel\"}}"
+				"{\"text\":\"点击开始思索\", \"color\":\"yellow\", \"underlined\": true, \"clickEvent\":{\"action\":\"run_command\", \"value\":\"/create ponder create:crushing_wheel\"}}"
 			]
 			dependencies: ["1C84420BDC21A288"]
 			id: "1925E7562A6F5440"
