@@ -33,7 +33,7 @@ onEvent('block.place',(event) => {
 
       let result = checkForBlockInCube(targetBlock,event.level,7,sx,sy,sz)
       if (result != '') {
-        event.entity.tell('You cannot place ' + checkBlock + ' that close to a ' + targetBlock + '. There is one located @ ' + result.x + ',' + result.y + ',' + result.z)
+        event.entity.tell('您不能将 ' + checkBlock + ' 放置在 ' + targetBlock + '附近。坐标 @ ' + result.x + ',' + result.y + ',' + result.z)
         event.cancel()
       }
     }
