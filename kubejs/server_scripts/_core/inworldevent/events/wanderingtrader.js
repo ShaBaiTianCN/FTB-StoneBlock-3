@@ -26,7 +26,7 @@ const wanderingtraderEvent = {
 
     if (checkForNoSolicitors.length === 0 && checkAmountOfTraders.length < 2) {
       player.tell([
-        `Wandering Trader has spawned at X: ${location.pos.x}, Y: ${location.pos.y}, Z: ${location.pos.z}`,
+        `流浪商人已生成在 X: ${location.pos.x}, Y: ${location.pos.y}, Z: ${location.pos.z}`,
       ]);
 
       let entityWandering = level.createEntity("minecraft:wandering_trader");
