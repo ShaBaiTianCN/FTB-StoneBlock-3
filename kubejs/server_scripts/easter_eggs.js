@@ -14,10 +14,10 @@ onEvent("player.logged_in", (event) => {
     ["OfficialyMax", "3-10", "任务撰写员"],
     ["Dinnerbeef & UnRealDinnerbone", "6-8", "Alpha版测试"],
     ["Slowpoke101", "6-19", "总书记"],
-    ["manmaed", "6-30", "Alpha 版测试"],
-    ["Loneztar", "7-15", "Beta 团队主任"],
+    ["manmaed", "6-30", "Alpha版测试"],
+    ["Loneztar", "7-15", "Beta团队主任"],
     ["Mikey", "10-11", "模组开发主任"],
-    ["5ully_", "10-15", "Alpha 版测试"],
+    ["5ully_", "10-15", "Alpha版测试"],
     ["Sunekaer", "10-20", "整合包开发主任"],
     ["aaronhowser1", "12-2", "任务撰写员"],
   ];
