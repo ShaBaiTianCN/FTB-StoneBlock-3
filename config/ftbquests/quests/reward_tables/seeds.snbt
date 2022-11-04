@@ -1,7 +1,7 @@
 {
 	id: "01392EF91EBD3002"
 	order_index: 0
-	title: "Seeds - Rolled 12 times"
+	title: "种子 - 随机 12 个物品"
 	loot_size: 12
 	use_title: true
 	rewards: [

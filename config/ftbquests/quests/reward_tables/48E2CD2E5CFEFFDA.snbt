@@ -1,7 +1,7 @@
 {
 	id: "48E2CD2E5CFEFFDA"
 	order_index: 2
-	title: "Common"
+	title: "普通"
 	icon: "minecraft:chest"
 	loot_size: 1
 	rewards: [
