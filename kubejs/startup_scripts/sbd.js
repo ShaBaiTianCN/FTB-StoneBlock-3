@@ -8,23 +8,23 @@ StoneblockData.reset();
 StoneblockData.setLobbyStructure("ftbstoneblock:lobby");
 
 //Starting islands
-StoneblockData.addStart("ftbstoneblock:spawn_islands/island", "The original");
-StoneblockData.addStart("ftbstoneblock:spawn_islands/cave", "Cave");
+StoneblockData.addStart("ftbstoneblock:spawn_islands/island", "经典");
+StoneblockData.addStart("ftbstoneblock:spawn_islands/cave", "洞穴");
 StoneblockData.addStart(
   "ftbstoneblock:spawn_islands/drip_cave",
-  "The drippy cave"
+  "滴水洞穴"
 );
 StoneblockData.addStart(
   "ftbstoneblock:spawn_islands/lushed_house",
-  "Lushed house"
+  "茂密的房间"
 );
 StoneblockData.addStart(
   "ftbstoneblock:spawn_islands/lushed_mine_intersection",
-  "Lushed mineshaft intersection"
+  "茂密的矿井路口"
 );
 StoneblockData.addStart(
   "ftbstoneblock:spawn_islands/mine_intersection",
-  "Mineshaft intersection"
+  "矿井路口"
 );
 
 //First biome - "Stone area"
