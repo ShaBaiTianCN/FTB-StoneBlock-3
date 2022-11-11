@@ -142,12 +142,12 @@ onEvent("block.registry", (event) => {
     .create("ftbstoneblock:crushed_endstone")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("破碎的末地石");
+    .displayName("粉碎的末地石");
   event
     .create("ftbstoneblock:crushed_deepslate")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("破碎的深板岩");
+    .displayName("粉碎的深板岩");
 
   for (let type in global.compressables) {
     let props = global.compressables[type];
