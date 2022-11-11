@@ -76,7 +76,7 @@ onEvent("item.registry", (event) => {
 
   event
     .create("avaritia:flux_block_singularity")
-    .displayName("通量方块s奇点");
+    .displayName("通量方块奇点");
 
   event
     .create("avaritia:crystal_nitro_singularity")
