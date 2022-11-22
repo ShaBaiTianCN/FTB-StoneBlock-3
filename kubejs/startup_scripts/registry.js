@@ -56,7 +56,7 @@ onEvent("item.registry", (event) => {
 
   event
     .create("avaritia:filter_pet_singularity")
-    .displayName("Mob Filter (Pet)（等模组darkutils翻译）奇点");
+    .displayName("生物过滤器（宠物）奇点");
 
   event
     .create("avaritia:infused_enderpearl_singularity")
