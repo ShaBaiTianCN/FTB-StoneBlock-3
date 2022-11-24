@@ -121,7 +121,7 @@ onEvent("item.registry", (event) => {
   event.create("avaritia:wall_singularity").displayName("压缩空间壁奇点");
   event
     .create("avaritia:emerald_cluster_singularity")
-    .displayName("Emerald Cluster（等buddingcrystals翻译）奇点");
+    .displayName("绿宝石晶簇奇点");
   event
     .create("avaritia:xp_jelly_baby_singularity")
     .displayName("经验果冻宝宝奇点");
