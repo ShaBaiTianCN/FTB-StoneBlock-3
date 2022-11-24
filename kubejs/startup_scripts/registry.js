@@ -1,7 +1,7 @@
 onEvent("item.registry", (event) => {
   event
     .create("ftbstoneblock:stonepebble")
-    .displayName("Stone Pebble")
+    .displayName("石子")
     .food((food) => {
       food
         .hunger(1)
@@ -12,12 +12,12 @@ onEvent("item.registry", (event) => {
         .fastToEat();
     });
 
-  event.create("ftbstoneblock:mob_soul").displayName("Mob Soul");
-  event.create("ftbstoneblock:press_rod_die").displayName("Rod Die");
-  event.create("ftbstoneblock:ritual_starter").displayName("Ritual Starter");
-  event.create("ftbstoneblock:cold_silverfish_shard");
-  event.create("ftbstoneblock:warm_silverfish_shard");
-  event.create("ftbstoneblock:silverfish_heart").glow(true);
+  event.create("ftbstoneblock:mob_soul").displayName("怪物灵魂");
+  event.create("ftbstoneblock:press_rod_die").displayName("棒 模具");
+  event.create("ftbstoneblock:ritual_starter").displayName("仪式启动器");
+  event.create("ftbstoneblock:cold_silverfish_shard").displayName("冷蠹虫碎片");
+  event.create("ftbstoneblock:warm_silverfish_shard").displayName("热蠹虫碎片");
+  event.create("ftbstoneblock:silverfish_heart").glow(true).displayName("蠹虫之心");
   event
     .create("ftbstoneblock:incomplete_watch")
     .texture("projecte:item/rings/time_watch_off");
@@ -52,91 +52,91 @@ onEvent("item.registry", (event) => {
 
   event
     .create("avaritia:addon_singularity")
-    .displayName("Addon: Processing Tier 2 Singularity");
+    .displayName("插件：处理中Tier 2奇点");
 
   event
     .create("avaritia:balloon_singularity")
-    .displayName("Balloon Singularity");
+    .displayName("气球奇点");
 
   event
     .create("avaritia:corrupted_ingot_singularity")
-    .displayName("Corrupted Ingot Singularity");
+    .displayName("腐化金属锭奇点");
 
   event
     .create("avaritia:enderium_block_singularity")
-    .displayName("Enderium Block Singularity");
+    .displayName("末影块奇点");
 
   event
     .create("avaritia:filter_pet_singularity")
-    .displayName("Mob Filter (Pet) Singularity");
+    .displayName("生物过滤器（宠物）奇点");
 
   event
     .create("avaritia:infused_enderpearl_singularity")
-    .displayName("Infused Enderpearl Singularity");
+    .displayName("蕴魔末影珍珠奇点");
 
   event
     .create("avaritia:manasteel_ingot_singularity")
-    .displayName("Manasteel Ingot Singularity");
+    .displayName("魔力钢锭奇点");
 
   event
     .create("avaritia:mob_soul_singularity")
-    .displayName("Mob Soul Singularity");
+    .displayName("怪物灵魂奇点");
 
   event
     .create("avaritia:nether_star_singularity")
-    .displayName("Nether Star Singularity");
+    .displayName("下界之星奇点");
 
   event
     .create("avaritia:flux_block_singularity")
-    .displayName("Flux Block Singularity");
+    .displayName("通量方块奇点");
 
   event
     .create("avaritia:crystal_nitro_singularity")
-    .displayName("Nitro Crystal Singularity");
+    .displayName("下界水晶奇点");
 
   event
     .create("avaritia:overclocker_node_singularity")
-    .displayName("Node Overclocker Singularity");
+    .displayName("节点超频元件奇点");
 
   event
     .create("avaritia:palette_singularity")
-    .displayName("Palette and Brush Singularity");
+    .displayName("调色盘与画笔奇点");
 
   event
     .create("avaritia:pellet_polonium_singularity")
-    .displayName("Polonium Pellet Singularity");
+    .displayName("钋靶丸奇点");
 
   event
     .create("avaritia:pig_iron_ingot_singularity")
-    .displayName("Pig Iron Ingot Singularity");
+    .displayName("生铁锭奇点");
 
   event
     .create("avaritia:etherealslate_singularity")
-    .displayName("Ethereal Slate Singularity");
+    .displayName("悬幽石板奇点");
 
   event
     .create("avaritia:magenta_matter_singularity")
-    .displayName("Magenta Matter Singularity");
+    .displayName("品红色物质奇点");
 
   event
     .create("avaritia:source_gem_singularity")
-    .displayName("Source Gem Singularity");
+    .displayName("魔源宝石奇点");
 
   event
     .create("avaritia:track_singularity")
-    .displayName("Train Track Singularity");
+    .displayName("列车轨道奇点");
 
   event
     .create("avaritia:uraninite_singularity")
-    .displayName("Uraninite Singularity");
+    .displayName("晶质铀奇点");
 
-  event.create("avaritia:wall_singularity").displayName("Wall Singularity");
+  event.create("avaritia:wall_singularity").displayName("压缩空间壁奇点");
   event
     .create("avaritia:emerald_cluster_singularity")
-    .displayName("Emerald Cluster Singularity");
+    .displayName("绿宝石晶簇奇点");
   event
     .create("avaritia:xp_jelly_baby_singularity")
-    .displayName("Xp Jelly Baby Singularity");
+    .displayName("经验果冻宝宝奇点");
 });
 
 onEvent("block.registry", (event) => {
@@ -144,22 +144,22 @@ onEvent("block.registry", (event) => {
     .create("ftbstoneblock:dust")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("Dust");
+    .displayName("尘土");
   event
     .create("ftbstoneblock:crushed_netherrack")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("Crushed Netherrack");
+    .displayName("粉碎的下界岩");
   event
     .create("ftbstoneblock:crushed_endstone")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("Crushed End Stone");
+    .displayName("粉碎的末地石");
   event
     .create("ftbstoneblock:crushed_deepslate")
     .tagBlock(`minecraft:mineable/shovel`)
     .material("Sand")
-    .displayName("Crushed Deepslate");
+    .displayName("粉碎的深板岩");
 
   for (let type in global.compressables) {
     let props = global.compressables[type];
@@ -183,7 +183,7 @@ onEvent("block.registry", (event) => {
         .requiresTool(true)
         .material(props.material)
         .hardness(x[i])
-        .displayName(`${i}x Compressed ${props.name}`);
+        .displayName(`${i}x 压缩${props.name}`);
     }
   }
 });
