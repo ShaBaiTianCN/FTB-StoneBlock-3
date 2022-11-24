@@ -48,7 +48,7 @@ onEvent("item.registry", (event) => {
 
   event
     .create("avaritia:corrupted_ingot_singularity")
-    .displayName("Corrupted Ingot（等模组soulshards）奇点");
+    .displayName("腐化金属锭奇点");
 
   event
     .create("avaritia:enderium_block_singularity")
