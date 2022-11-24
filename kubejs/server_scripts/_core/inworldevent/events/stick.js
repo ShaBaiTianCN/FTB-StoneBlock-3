@@ -1,7 +1,7 @@
 // priority: 800
 const stickEvent = {
   name: "ftbstoneblock:stick",
-  chance: 0.3,
+  chance: 0.2,
   names: [
     "你有没有觉得自己像个塑料袋？",
     "斯迪克然 - 它想和您的领导谈谈",

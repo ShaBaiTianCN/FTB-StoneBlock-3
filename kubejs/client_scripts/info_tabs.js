@@ -83,4 +83,21 @@ onEvent('rei.information', (event) => {
 			'如果普通血命果生长时在它上面杀死一只动物，它会长成饱满血命果',
 		]
 	)
+
+	event.addItem(["ae2:inscriber", "ae2things:advanced_inscriber"],
+		'Inscribers',
+		[
+			Text.red("压印器已被禁言，取而代之的是机械动力的序列组装。"),
+			Text.red("如果您已经有一个了，它可以继续工作，但是您不能再制造新的了。"),
+		]
+	)
+
+	event.addItem(Item.of('chickens:chicken_item', '{ChickenType:{id:"chickens:smart_chicken"}}'),
+		'Smart Chickens',
+		[
+			'用一本书对着普通的鸡右键来生成。',
+			' ',
+			'就像普通的鸡一样，产生普通的鸡蛋，但是有属性且可以使用鸡窝和鸡舍。'
+		]
+	)
 })

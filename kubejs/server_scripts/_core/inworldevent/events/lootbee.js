@@ -2,8 +2,8 @@
 const lootbeeEvent = {
   name: "ftbstoneblock:loot_bee",
   chance: 0.4,
-  minDistance: 5,
-  maxDistance: 20,
+  minDistance: 2,
+  maxDistance: 15,
   size: 0,
   checkBlocks: [
     "minecraft:stone",

@@ -1,0 +1,445 @@
+{
+	id: "0D2D83D303C3B483"
+	order_index: 8
+	title: "任务-早期"
+	icon: "botania:dice"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [
+		{ item: "minecraft:repeater", count: 6, weight: 100 }
+		{ item: "minecraft:comparator", count: 6, weight: 100 }
+		{ item: "botania:ender_air_bottle", count: 6, weight: 100 }
+		{ item: "minecraft:iron_ore", count: 32, weight: 100 }
+		{
+			item: {
+				id: "luggage:luggage"
+				Count: 1b
+				tag: { }
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "mekanismtools:stone_paxel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "mekanismtools:gold_paxel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "mekanismtools:iron_paxel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "mekanismtools:bronze_paxel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "mekanismtools:lapis_lazuli_paxel"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "constructionwand:iron_wand"
+				Count: 1b
+				tag: {
+					wand_options: { }
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "minecraft:chainmail_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "minecraft:chainmail_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "minecraft:chainmail_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "minecraft:chainmail_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "gag:time_sand_pouch"
+				Count: 1b
+				tag: {
+					grains: 0
+				}
+			}
+			weight: 101
+		}
+		{
+			item: {
+				id: "gag:hearthstone"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{ item: "create:track", count: 6, weight: 80 }
+		{ item: "botania:livingwood_twig", weight: 100 }
+		{ item: "itemcollectors:basic_collector", weight: 80 }
+		{ item: "measurements:tape_measure", weight: 100 }
+		{ item: "ironchest:diamond_chest", weight: 80 }
+		{ item: "simplybackpacks:commonbackpack", weight: 80 }
+		{
+			item: {
+				id: "industrialforegoing:range_addon0"
+				Count: 1b
+				tag: {
+					TitaniumAugment: {
+						Range: 0.0f
+					}
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "functionalstorage:redstone_upgrade"
+				Count: 1b
+				tag: {
+					Slot: 0
+				}
+			}
+			count: 2
+			weight: 100
+		}
+		{ item: "functionalstorage:copper_upgrade", count: 2, weight: 80 }
+		{
+			item: {
+				id: "functionalstorage:linking_tool"
+				Count: 1b
+				tag: {
+					Action: "ADD"
+					Mode: "SINGLE"
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "farmersdelight:skillet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{ item: "farmersdelight:cooking_pot", weight: 100 }
+		{
+			item: {
+				id: "minecraft:trident"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "chiselsandbits:bit_bag"
+				Count: 1b
+				tag: {
+					Inventory: { }
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "simplemagnets:basicmagnet"
+				Count: 1b
+				tag: { }
+			}
+			weight: 80
+		}
+		{ item: "fluxnetworks:flux_plug", count: 2, weight: 80 }
+		{ item: "fluxnetworks:flux_point", count: 2, weight: 80 }
+		{
+			item: {
+				id: "powah:battery_basic"
+				Count: 1b
+				tag: { }
+			}
+			weight: 80
+		}
+		{ item: "pocketstorage:psu_1", weight: 80 }
+		{ item: "mcwdoors:metal_warning_door", count: 2, weight: 100 }
+		{ item: "mob_grinding_utils:fan", count: 2, weight: 80 }
+		{ item: "soulshards:soul_shard", weight: 80 }
+		{ item: "botania:apothecary_default", weight: 100 }
+		{ item: "botania:hourglass", weight: 100 }
+		{ item: "farmersdelight:basket", weight: 100 }
+		{ item: "minecraft:spyglass", weight: 100 }
+		{
+			item: {
+				id: "immersiveengineering:railgun"
+				Count: 1b
+				ForgeCaps: {
+					Parent: {
+						Size: 3
+						Items: [ ]
+					}
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "shrink:shrinking_device"
+				Count: 1b
+				tag: { }
+			}
+			weight: 100
+		}
+		{ item: "mob_grinding_utils:wither_muffler", weight: 80 }
+		{ item: "compactmachines:personal_shrinking_device", weight: 80 }
+		{ item: "ironfurnaces:gold_furnace", weight: 80 }
+		{ item: "minecraft:black_candle", count: 8, weight: 100 }
+		{ item: "industrialforegoing:laser_lens3", weight: 100 }
+		{ item: "powah:magmator_starter", weight: 100 }
+		{ item: "laserio:laser_wrench", weight: 80 }
+		{ item: "industrialforegoing:laser_lens14", weight: 80 }
+		{
+			item: {
+				id: "botania:lexicon"
+				Count: 1b
+				tag: {
+					"botania:elven_unlock": 1b
+				}
+			}
+			weight: 100
+		}
+		{ item: "enderstorage:ender_chest", count: 2, weight: 100 }
+		{ item: "mob_grinding_utils:tank", count: 3, weight: 80 }
+		{ item: "minecraft:hopper", count: 4, weight: 100 }
+		{ item: "createaddition:honey_cake", count: 4, weight: 100 }
+		{ item: "createaddition:chocolate_cake", count: 4, weight: 100 }
+		{ item: "minecraft:bread", count: 16, weight: 100 }
+		{ item: "chancecubes:chance_cube", count: 4, weight: 80 }
+		{ item: "cobblefordays:tier_1", weight: 90 }
+		{ item: "cobblefordays:tier_2", weight: 70 }
+		{ item: "cobblefordays:tier_3", weight: 50 }
+		{ item: "thermal:wrench", weight: 100 }
+		{ item: "tconstruct:bacon", count: 16, weight: 100 }
+		{ item: "botania:black_lotus", count: 8, weight: 100 }
+		{ item: "pipez:basic_upgrade", count: 4, weight: 100 }
+		{ item: "pipez:improved_upgrade", count: 4, weight: 80 }
+		{ item: "rftoolsutility:crafter1", weight: 100 }
+		{ item: "chancecubes:silk_touch_pendant", weight: 100 }
+		{ item: "ironfurnaces:netherite_furnace", weight: 30 }
+		{
+			item: {
+				id: "avaritia:skullfire_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Item: {
+						Count: 1b
+						id: "avaritia:skullfire_sword"
+						tag: {
+							RepairCost: 7
+							Damage: 0
+							Enchantments: [
+								{
+									lvl: 25s
+									id: "minecraft:looting"
+								}
+								{
+									lvl: 999
+									id: "minecraft:sharpness"
+								}
+								{
+									lvl: 25
+									id: "minecraft:unbreaking"
+								}
+							]
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "buildinggadgets:gadget_building"
+				Count: 1b
+				tag: {
+					state: {
+						serializer: "buildinggadgets:dummy_serializer"
+						state: {
+							Name: "minecraft:air"
+						}
+						data: { }
+					}
+				}
+			}
+			weight: 80
+		}
+		{
+			item: {
+				id: "entangled:item"
+				Count: 1b
+				tag: { }
+			}
+			weight: 100
+		}
+		{ item: "minecraft:anvil", weight: 100 }
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 1s
+						id: "minecraft:mending"
+					}]
+				}
+			}
+			weight: 80
+		}
+		{ item: "tempad:tempad", weight: 20 }
+		{ item: "prettypipes:wrench", weight: 95 }
+		{ item: "prettypipes:low_speed_module", count: 2, weight: 90 }
+		{ item: "prettypipes:medium_speed_module", count: 2, weight: 75 }
+		{ item: "prettypipes:random_sorting_modifier", weight: 85 }
+		{
+			item: {
+				id: "experienceobelisk:experience_obelisk"
+				Count: 1b
+				tag: { }
+			}
+			weight: 96
+		}
+		{
+			item: {
+				id: "justhammers:iron_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 100
+		}
+		{
+			item: {
+				id: "justhammers:iron_impact_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 80
+		}
+		{
+			item: {
+				id: "justhammers:iron_reinforced_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 60
+		}
+		{
+			item: {
+				id: "justhammers:iron_reinforced_impact_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 40
+		}
+		{
+			item: {
+				id: "justhammers:iron_destructor_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 20
+		}
+		{
+			item: {
+				id: "soulshards:vile_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 90
+		}
+		{ item: "supplementaries:globe", weight: 100 }
+		{ item: "tconstruct:seared_bricks", count: 4, weight: 90 }
+		{ item: "create:cogwheel", count: 2, weight: 90 }
+		{ item: "create:large_cogwheel", count: 2, weight: 90 }
+		{ item: "create:andesite_casing", count: 4, weight: 90 }
+	]
+}
