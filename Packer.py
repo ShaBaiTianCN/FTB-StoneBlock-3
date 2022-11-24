@@ -9,9 +9,9 @@ with open('PackerConfig.json', encoding='utf-8') as f:
     PROJECT_NAME = PACKER_CONFIG['projectName']
     PACK_VERSION = PACKER_CONFIG['packVersion']
 
-if os.environ['event_name'] == 'pull_request_target':
+if os.environ.get('event_name') == 'pull_request_target':
     VERSION = os.environ['event_number']
-elif os.environ['event_name'] == 'workflow_dispatch':
+elif os.environ.get('event_name') == 'workflow_dispatch':
     VERSION = os.environ['version']
 else:
     VERSION = input('Version: ')
@@ -63,7 +63,9 @@ def main():
         f.write(requests.get(release_info['browser_download_url']).content)
 
     # Set release name
-    print(f'::set-output name=release_name::{RELEASE_NAME}')
+    if 'GITHUB_OUTPUT' in os.environ.keys():
+        with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+            print(f'release_name={RELEASE_NAME}', file=fh)
 
 
 if __name__ == '__main__':
