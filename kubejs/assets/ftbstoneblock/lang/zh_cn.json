@@ -262,9 +262,9 @@
   "sb3.exploration.boss_dungeon.desc1": "&bBoss地牢&r可以在&6末地之环外&r找到。",
   "sb3.exploration.boss_dungeon.desc2": "在里面可以找到召唤整合包boss的&6召唤祭坛&r。",
 
-  "sb3.exploration.mother_silverfish.subtitle": "召唤并杀死蠹虫妈妈",
-  "sb3.exploration.mother_silverfish.desc1": "&b蠹虫妈妈&r要在末地之环外的Boss地牢中召唤。召唤并击败它！",
-  "sb3.exploration.mother_silverfish.desc2": "当心，蠹虫妈妈有些特殊攻击，而且还能召唤&6几种蠹虫下属&r。",
+  "sb3.exploration.mother_silverfish.subtitle": "召唤并杀死蠹虫虫母",
+  "sb3.exploration.mother_silverfish.desc1": "&b蠹虫虫母&r要在末地之环外的Boss地牢中召唤。召唤并击败它！",
+  "sb3.exploration.mother_silverfish.desc2": "当心，蠹虫虫母有些特殊攻击，而且还能召唤&6几种蠹虫下属&r。",
   "sb3.exploration.mother_silverfish.desc3": "很可能召唤的有：&6吸血&r、&6中毒&r和&6盗窃&r蠹虫。最后一个特别危险，注意安全！",
 
   "sb3.exploration.train.title": "世界之旅！",
@@ -497,32 +497,32 @@
   "sb3.thermal.pulv.subtitle": "制作一台磨粉机",
   "sb3.thermal.pulv.desc": "&b磨粉机&r可以磨碎物品。",
 
-  "sb3.thermal.aug.title": "Augments",
-  "sb3.thermal.aug.subtitle": "Make any Augment",
-  "sb3.thermal.aug.desc": "&bAugments&r are basically upgrades that change how tools and machines function.",
+  "sb3.thermal.aug.title": "升级",
+  "sb3.thermal.aug.subtitle": "制作任意升级",
+  "sb3.thermal.aug.desc": "&b升级&r就是提升或改变机器、工具功能的。",
 
-  "sb3.thermal.dynamo.title": "Dynamos",
-  "sb3.thermal.dynamo.subtitle": "Make any Dynamo",
-  "sb3.thermal.dynamo.desc": "&bDynamos&r generate FE.",
+  "sb3.thermal.dynamo.title": "发电机",
+  "sb3.thermal.dynamo.subtitle": "制作任意发电机",
+  "sb3.thermal.dynamo.desc": "&b发电机&r产生FE",
 
-  "sb3.thermal.ic.title": "Internal Components",
-  "sb3.thermal.ic.subtitle": "Make any Internal Components",
-  "sb3.thermal.ic.desc": "&bInternal Components&r increase the tier of the machine, improving the base attributes.",
+  "sb3.thermal.ic.title": "整合组件",
+  "sb3.thermal.ic.subtitle": "制作任意整合组件",
+  "sb3.thermal.ic.desc": "&b整合组建&r能全面提升机器属性。",
 
-  "sb3.thermal.msp.subtitle": "Make a Multiservo Press",
-  "sb3.thermal.msp.desc": "The &bMultiservo Press&r crafts items together.",
+  "sb3.thermal.msp.subtitle": "制作多驱冲压机",
+  "sb3.thermal.msp.desc": "&b多驱冲压机&r同时处理配方。",
 
-  "sb3.thermal.rfc.subtitle": "Make a Redstone Flux Cell",
-  "sb3.thermal.rfc.desc": "&bRedstone Flux Cels&r store FE. Storage can be improved with Augments and enchantments.",
+  "sb3.thermal.rfc.subtitle": "制作红石通量单元",
+  "sb3.thermal.rfc.desc": "&b红石通量单元&r可以储存FE。容量可以通过升级和附魔提高。",
 
-  "sb3.thermal.is.subtitle": "Make an Induction Smelter",
-  "sb3.thermal.is.desc": "The &bInduction Smelter&r combines items into new ones.",
+  "sb3.thermal.is.subtitle": "制作感应炉",
+  "sb3.thermal.is.desc": "&b感应炉&r融合物品成新物品。",
 
-  "sb3.thermal.pi.subtitle": "Make a Phytogenic Insolator",
-  "sb3.thermal.pi.desc": "The &bPhytogenic Insolator&r grows crops, flowers, and trees.",
+  "sb3.thermal.pi.subtitle": "制作有机灌注器",
+  "sb3.thermal.pi.desc": "&b有机灌注器&r内部培养庄稼、花朵和树木。",
 
-  "sb3.thermal.ie.subtitle": "Make an Igneous Extruder",
-  "sb3.thermal.ie.desc": "The &bIgneous Extruder&r can combine Water and Lava into various blocks, like Stone or Deepslate.",
+  "sb3.thermal.ie.subtitle": "制作造石机",
+  "sb3.thermal.ie.desc": "&b造石机&r能混合水和岩浆生成各种方块，例石头和深板岩。",
 
   "sb3.tech.immersive_eng.title": "沉浸工程",
 
@@ -622,11 +622,11 @@
   "sb3.ars.nsb.desc1": "&b初学者法术书&r可以使用你已掌握的一级法术。",
   "sb3.ars.nsb.desc2": "在&6抄写台&r制作和学习新魔咒。",
 
-  "sb3.ars.st.subtitle": "Make a Scribe's Table",
-  "sb3.ars.st.desc": "You can make new &bGlyphs&r at the &bSCribe's Table&r by using a Spell Book on it, then throwing the requested items on top.",
-  "sb3.ars.st.task": "Glyphs",
+  "sb3.ars.st.subtitle": "制作抄写台",
+  "sb3.ars.st.desc": "在&b抄写台&r上使用法术书并丢对应的材料上去及可制作新的&b魔符&r。",
+  "sb3.ars.st.task": "魔符",
 
-  "sb3.ars.msb.subtitle": "Make a Mage's Spell Book",
+  "sb3.ars.msb.subtitle": "制作法师的法术书",
   "sb3.ars.msb.desc": "The &bMage's Spell Book&r allows you to cast spells using Tier 2 Glpyhs that you've learned.",
 
   "sb3.ars.asb.subtitle": "Make the Archmage Spell Book",
