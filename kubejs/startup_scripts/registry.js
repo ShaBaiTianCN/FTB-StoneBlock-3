@@ -104,7 +104,7 @@ onEvent("item.registry", (event) => {
 
   event
     .create("avaritia:magenta_matter_singularity")
-    .displayName("Magenta Matter（等extendedexchange翻译）奇点");
+    .displayName("品红色物质奇点");
 
   event
     .create("avaritia:source_gem_singularity")
