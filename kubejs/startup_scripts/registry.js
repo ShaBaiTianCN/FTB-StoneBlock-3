@@ -35,6 +35,18 @@ onEvent("item.registry", (event) => {
     .texture("refinedstorage:item/raw_advanced_processor");
 
   event
+    .create("ftbstoneblock:incomplete_printed_logic_processor")
+    .texture("ae2:item/printed_logic_processor");
+
+  event
+    .create("ftbstoneblock:incomplete_printed_calculation_processor")
+    .texture("ae2:item/printed_calculation_processor");
+
+  event
+    .create("ftbstoneblock:incomplete_printed_engineering_processor")
+    .texture("ae2:item/printed_engineering_processor");
+
+  event
     .create("ftbstoneblock:millstone_dummy_block")
     .parentModel("create:block/millstone/item");
 

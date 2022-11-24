@@ -1,0 +1,180 @@
+{
+	id: "44BB1F1E12BE7A7F"
+	order_index: 10
+	title: "任务-末期"
+	icon: "botania:dice"
+	loot_size: 1
+	hide_tooltip: true
+	rewards: [
+		{
+			item: {
+				id: "industrialforegoing:range_addon9"
+				Count: 1b
+				tag: {
+					TitaniumAugment: {
+						Range: 9.0f
+					}
+				}
+			}
+			weight: 10
+		}
+		{ item: "functionalstorage:diamond_upgrade", count: 2, weight: 10 }
+		{ item: "fluxnetworks:gargantuan_flux_storage", weight: 10 }
+		{
+			item: {
+				id: "projecte:watch_of_flowing_time"
+				Count: 1b
+				tag: { }
+				ForgeCaps: {
+					Parent: { }
+				}
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "powah:battery_niotic"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{ item: "chancecubes:compact_giant_chance_cube", weight: 10 }
+		{
+			item: {
+				id: "minecraft:elytra"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:miningsigil"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:sigilofmagnetism"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:sigilofholding"
+				Count: 1b
+				tag: {
+					currentSigil: 5
+				}
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:growthsigil"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:icesigil"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "bloodmagic:sigilofsuppression"
+				Count: 1b
+				tag: { }
+			}
+			weight: 10
+		}
+		{ item: "mekanism:alloy_atomic", count: 2, weight: 10 }
+		{ item: "supplementaries:bomb_blue", count: 2, weight: 10 }
+		{ item: "industrialforegoing:laser_lens12", weight: 10 }
+		{ item: "ironfurnaces:item_xmas", weight: 10 }
+		{ item: "functionalstorage:netherite_upgrade", count: 2, weight: 10 }
+		{ item: "fluxnetworks:herculean_flux_storage", weight: 10 }
+		{ item: "createaddition:chocolate_cake", count: 16, weight: 10 }
+		{ item: "minecraft:bread", count: 64, weight: 10 }
+		{ item: "createaddition:honey_cake", count: 16, weight: 10 }
+		{ item: "chancecubes:chance_cube", count: 6, weight: 4 }
+		{ item: "pipez:ultimate_upgrade", count: 4, weight: 10 }
+		{ item: "rftoolsutility:crafter3", weight: 10 }
+		{
+			item: {
+				id: "avaritia:skullfire_sword"
+				Count: 1b
+				tag: {
+					RepairCost: 7
+					Damage: 0
+					Enchantments: [
+						{
+							lvl: 25s
+							id: "minecraft:looting"
+						}
+						{
+							lvl: 999
+							id: "minecraft:sharpness"
+						}
+						{
+							lvl: 25
+							id: "minecraft:unbreaking"
+						}
+					]
+				}
+			}
+		}
+		{
+			item: {
+				id: "buildinggadgets:gadget_copy_paste"
+				Count: 1b
+				tag: {
+					mode: 0b
+					template_id: [I;
+						1317394810
+						-1552789595
+						-1378379165
+						289534557
+					]
+				}
+			}
+			weight: 10
+		}
+		{ item: "mekanism:quantum_entangloporter", weight: 10 }
+		{ item: "extendedexchange:dark_power_flower", weight: 6 }
+		{
+			item: {
+				id: "extendedexchange:magnum_star_zwei"
+				Count: 1b
+				ForgeCaps: {
+					Parent: { }
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "extendedexchange:colossal_star_zwei"
+				Count: 1b
+				ForgeCaps: {
+					Parent: { }
+				}
+			}
+		}
+		{ item: "avaritia:neutronium_block", weight: 3 }
+		{ item: "avaritia:crystal_matrix_block", weight: 3 }
+		{ item: "avaritia:cosmic_meatballs", count: 4 }
+	]
+}
